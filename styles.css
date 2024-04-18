@@ -20,11 +20,16 @@ header{
     text-align: left;
     font-family: MinhaFonte;
     padding-left: 2rem;
+    padding-top: 20px;
     text-shadow: 
         -1px -1px 0 #000,  
         1px -1px 0 #000,
         -1px 1px 0 #000,
         1px 1px 0 #000;
+}
+
+#cabeçalho{
+    margin-top:80px;
 }
 
 
@@ -253,18 +258,3 @@ a:active {
 .personalidade{
     text-align: justify;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
